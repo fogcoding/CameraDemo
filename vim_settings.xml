@@ -6,9 +6,21 @@
       <file name="D:/Android/bilibili-1-OhMyBiliBili/app/src/main/java/com/hotbitmapgg/ohmybilibili/OhMyBiliBiliApp.java" timestamp="1474977439593">
         <mark key="[" line="57" column="60" />
       </file>
+      <file name="D:/Android/bilibili-1-OhMyBiliBili/gradle.properties" timestamp="1474978878502">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="&quot;" type="4">
+        <text />
+      </register>
+      <register name="-" type="4">
+        <text />
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
