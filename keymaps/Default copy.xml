@@ -1,5 +1,12 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="EditorDown" />
+  <action id="VimMotionRight">
+    <keyboard-shortcut first-keystroke="d" />
+  </action>
+  <action id="VimMotionUp">
+    <keyboard-shortcut first-keystroke="w" />
+  </action>
   <action id="VimPluginToggle">
-    <keyboard-shortcut first-keystroke="ctrl comma" />
+    <keyboard-shortcut first-keystroke="alt comma" />
   </action>
 </keymap>
